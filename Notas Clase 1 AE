@@ -1,0 +1,11 @@
+No confiar en los datos que nos den, siempre explorarlos
+
+boxplot(data) -> encuentra valores atípicos
+
+cor(x,y) encuentra la correlación que existen de los datos.
+   
+        -si el resultado se acerca a 0, no tienen correlación
+        
+        -si el resultado se acerca a 1, son correlacionables, ambas aumentan conforme al otro
+        
+        -si el resultado se acerca a -1, son correlacionables, mientras uno aumenta, el otro disminuye
